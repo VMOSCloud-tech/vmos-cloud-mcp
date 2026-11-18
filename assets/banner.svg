@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">VMOS CLOUD MCP: Connect your AI to your cloud phones</title>
+  <desc id="desc">Blue brand banner with a diagram of an AI assistant connecting to cloud phones through MCP.</desc>
+  <rect width="1280" height="400" rx="12" fill="#0866df"/>
+  <g fill="#fff" font-family="Arial, sans-serif">
+    <text x="56" y="65" font-size="23" font-weight="700">VMOS CLOUD</text>
+    <rect x="237" y="42" width="65" height="30" rx="15" fill="none" stroke="#8fc1ff"/>
+    <text x="251" y="63" font-size="16" font-weight="700">MCP</text>
+    <text x="56" y="166" font-size="51" font-weight="700">Your AI.</text>
+    <text x="56" y="233" font-size="51" font-weight="700">Your cloud phones.</text>
+    <text x="58" y="291" font-size="21" fill="#e0eeff">Copy the setup prompt. Start a conversation.</text>
+    <text x="58" y="355" font-size="16" fill="#e0eeff">Devices / Apps / Environments / Automation</text>
+  </g>
+  <g stroke="#b9d9ff" stroke-width="2" fill="none">
+    <path d="M865 204h43m71 0h37v-77h34m-34 77v77h34m-34-77h34"/>
+    <rect x="734" y="154" width="132" height="100" rx="18" fill="#fff" stroke="none"/>
+    <rect x="908" y="184" width="71" height="40" rx="20" fill="#0866df"/>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="800" y="215" font-size="33" fill="#0866df" font-weight="700">AI</text>
+    <text x="943" y="211" font-size="15" fill="#fff" font-weight="700">MCP</text>
+    <text x="800" y="288" font-size="16" fill="#e0eeff">Your assistant</text>
+    <text x="1108" y="355" font-size="16" fill="#e0eeff">VMOS CLOUD phones</text>
+  </g>
+  <g stroke="#fff" stroke-width="2" fill="#0866df">
+    <rect x="1050" y="83" width="78" height="125" rx="12"/>
+    <rect x="1115" y="140" width="78" height="125" rx="12"/>
+    <rect x="1050" y="220" width="78" height="105" rx="12"/>
+  </g>
+  <g stroke="#b9d9ff" stroke-width="3" stroke-linecap="round">
+    <path d="M1077 95h24m-24 137h24m40-80h24M1077 194h24m41 57h24m-89 60h24"/>
+  </g>
+  <g fill="#fff">
+    <rect x="1066" y="118" width="17" height="17" rx="4" opacity=".95"/>
+    <rect x="1093" y="118" width="17" height="17" rx="4" opacity=".5"/>
+    <rect x="1066" y="145" width="17" height="17" rx="4" opacity=".5"/>
+    <rect x="1093" y="145" width="17" height="17" rx="4" opacity=".95"/>
+    <rect x="1132" y="176" width="44" height="7" rx="3" opacity=".9"/>
+    <rect x="1132" y="193" width="33" height="7" rx="3" opacity=".5"/>
+    <rect x="1132" y="210" width="40" height="7" rx="3" opacity=".9"/>
+    <path d="m1074 273 11 11 20-23" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
